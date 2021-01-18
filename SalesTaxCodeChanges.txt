@@ -1,0 +1,6 @@
+1. no com.nice - better package name
+2. Main java file should be named Application
+3. no modules better say is model
+4. Class name should be noun.
+5. File parsing and logic execution should be added in services package.
+6. For constants in project use "enum"
